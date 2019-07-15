@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Пример веб-страницы</title>
+ </head>
+ <body>
+   <hider class="hider">
+     <div class="header-container">
+       <a class="header-logo-ilink" href="#0">
+         <img src=""@header-logo"" class="header-logo" alt="logo Surfase">
+       </a>
+     </div>
+     <h1 class="header-title">
+       <p>BE RECRUITED</p>
+       <p>PLAY COLLEGE SPORTS</p>
+     </h1>
+     <div class="header-wrapper">
+       <address class="header-address">
+         <ul class="socials">
+           <li class="socials-item">
+             <a href="#0" class="socials-link socials-link-app">
+               <span class="visually-hidden">link app store</span>
+             </a>
+           </li>
+           <li class="socials-item">
+             <a href="#0" class="socials-link socials-link-google">
+               <span class="visually-hidden">link google pley</span>
+             </a>
+           </li>
+         </ul>
+       </address>
+     </div>
+   </hider>
+</html>
